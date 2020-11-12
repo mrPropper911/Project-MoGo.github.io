@@ -1,2 +1,2 @@
 # Project-MoGo
-one page sait for practice css&amp;html&amp;js
+one page site for practice css&amp;html&amp;js
