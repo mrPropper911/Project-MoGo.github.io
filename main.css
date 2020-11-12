@@ -30,7 +30,8 @@ hr {
 /*container*/
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1230px;
+    padding: 0 15px;
     margin: 0 auto;
 }
 
@@ -56,7 +57,7 @@ hr {
 }
 
 .intro_title {
-    font-size: 120px;
+    font-size: 150px;
     font-weight: bold;
     text-transform: uppercase;
     line-height:1.1;
@@ -1151,3 +1152,75 @@ space center between
 .copyright span{
     color: #f38181;
 }
+
+
+@media (max-width:1230px){
+
+    /* intro*/
+    .intro_suptitle{
+        font-size: 52px;
+    }
+    
+    .intro_title{
+        font-size: 120px;
+    }
+}
+
+@media (max-width:990px){
+
+    /* intro*/
+    .intro_suptitle{
+        font-size: 32px;
+    }
+    
+    .intro_title{
+        font-size: 80px;
+    }
+}
+
+@media (max-width:770px){
+    .nav{
+        display: none;
+    }
+  
+}
+
+@media (max-width:575px){
+
+    /* intro*/
+    .intro_suptitle{
+        font-size: 22px;
+    }
+    
+    .intro_title{
+        font-size: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
